@@ -1,5 +1,8 @@
 # :computer: Bash-скрипты для исследования Linux системы 
 
+![linux](https://img.shields.io/badge/linux-blue)
+![bash-script](https://img.shields.io/badge/bash_script-blue)
+
 **SystemResearch** - это bash-скрипты для исследования системы Linux
 
 <br>
